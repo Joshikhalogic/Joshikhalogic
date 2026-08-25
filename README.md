@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Joshikhalogic">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=858&text=I'm%20Joshikha%20Dharmarpu%F0%9F%91%8B" alt="I&#39;m Joshikha Dharmarpu👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A371F7&fontSize=54&height=90&width=858&text=I'm%20Joshikha%20Dharmarpu%F0%9F%91%8B" alt="I&#39;m Joshikha Dharmarpu" />
   </a>
 </p>
 
@@ -8,18 +8,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast;Turning%20ideas%20into%20intelligent%20software" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## About Me
 
 I'm a Computer Science student driven by curiosity and a passion for solving real-world problems through technology.  
 Currently, I'm focused on Full Stack Development, AI-powered applications, and strengthening my software engineering fundamentals. My long-term goal is to build secure, intelligent, and scalable software as a Security Engineer.
 
-🔭 &nbsp;I'm currently working on **- 🧠 AI-powered software projects - 📋 Personal Management System - 🎓 Final Year Project Management Platform - 💼 Building a portfolio for software engineering internships**  
-🌱 &nbsp;I'm currently learning **- 🌐 Full Stack Development - ⚡ Data Structures &amp; Algorithms - 🤖 AI Integration &amp; APIs - 🔐 Cybersecurity Fundamentals - 🐧 Linux &amp; Git**  
-💬 &nbsp;Ask me about **💬 **Ask Me About** - 🌐 Full Stack Development - 🤖 AI Integration - 🔐 Cybersecurity - 📋 Project Planning &amp; System Design - 🚀 Building Portfolio Projects**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **🧩 I love designing software workflows before writing the first line of code.**
+ &nbsp;**I'm currently working on** <ul><li> AI-powered software projects</li><li> Final Year Project Management Platform</li><li> Building a portfolio for software engineering internships</li></ul>
+ &nbsp;**I'm currently learning**<ul><li> Full Stack Development</li><li> Data Structures &amp; Algorithms</li><li> AI Integration &amp; APIs</li><li> Cybersecurity Fundamentals</li><li> Linux &amp; Git</li></ul> 
+ &nbsp;**Ask me about** <ul><li> Full Stack Development</li><li> Project Planning &amp; System Design </li><li> Building Portfolio Projects</li></ul>
+ &nbsp;**Pronouns:** she/her 
+ &nbsp;**Fun fact:** 🧩 I love designing software workflows before writing the first line of code.
 
-### 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -38,24 +38,28 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### 🔗 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joshikha-dharmarpu-2a6700379/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:joshikha.dharmarpu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=default&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshikhalogic&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7&bg_color=00000000" alt="GitHub Stats"/>
 
-### 📈 Contribution Graph
+  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+</p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&bg_color=00000000&color=a371f7&line=a371f7&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Joshikhalogic&theme=tokyonight&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=A371F7" alt="GitHub Streak"/>
 </p>
+## Contribution Graph
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A371F7&line=A371F7&point=FFFFFF&area=true" alt="Contribution Graph"/>
+</p>
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Joshikhalogic">Joshikhalogic</a></i></p>
+<p align="center"><i>Building with curiosity • Learning with purpose </i></p>
