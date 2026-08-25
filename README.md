@@ -45,21 +45,30 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
   <a href="mailto:joshikha.dharmarpu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-##  GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshikhalogic&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7&bg_color=00000000" alt="GitHub Stats"/>
 
-  <img height="170" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshikhalogic&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Joshikhalogic&theme=tokyonight&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=A371F7" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Joshikhalogic&theme=tokyonight&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7"/>
+
 </p>
+
+---
+
 ## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=tokyo-night&hide_border=true&bg_color=00000000&color=A371F7&line=A371F7&point=FFFFFF&area=true" alt="Contribution Graph"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&bg_color=00000000&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true"/>
+
 </p>
 ---
 <p align="center"><i>Building with curiosity • Learning with purpose </i></p>
