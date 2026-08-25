@@ -58,7 +58,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joshikhalogic&theme=tokyonight&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Joshikhalogic&theme=default&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7"/>
 
 </p>
 
@@ -67,7 +67,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 ## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=tokyonight&bg_color=00000000&color=a371f7&line=a371f7&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=default&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 ---
 <p align="center"><i>Building with curiosity • Learning with purpose </i></p>
