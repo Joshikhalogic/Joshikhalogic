@@ -51,8 +51,8 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshikhalogic&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7"/>
-
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=default&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
