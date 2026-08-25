@@ -13,11 +13,12 @@
 I'm a Computer Science student driven by curiosity and a passion for solving real-world problems through technology.  
 Currently, I'm focused on Full Stack Development, AI-powered applications, and strengthening my software engineering fundamentals. My long-term goal is to build secure, intelligent, and scalable software as a Security Engineer.
 
- &nbsp;**I'm currently working on** <ul><li> AI-powered software projects</li><li> Final Year Project Management Platform</li><li> Building a portfolio for software engineering internships</li></ul>
- &nbsp;**I'm currently learning**<ul><li> Full Stack Development</li><li> Data Structures &amp; Algorithms</li><li> AI Integration &amp; APIs</li><li> Cybersecurity Fundamentals</li><li> Linux &amp; Git</li></ul> 
- &nbsp;**Ask me about** <ul><li> Full Stack Development</li><li> Project Planning &amp; System Design </li><li> Building Portfolio Projects</li></ul>
- &nbsp;**Pronouns:** she/her 
- &nbsp;**Fun fact:** 🧩 I love designing software workflows before writing the first line of code.
+**I'm currently working on** <ul><li> AI-powered software projects</li><li> Final Year Project Management Platform</li><li> Building a portfolio for software engineering internships</li></ul>
+**I'm currently learning**<ul><li> Full Stack Development</li><li> Data Structures &amp; Algorithms</li><li> AI Integration &amp; APIs</li><li> Cybersecurity Fundamentals</li><li> Linux &amp; Git</li></ul> 
+**Ask me about** <ul><li> Full Stack Development</li><li> Project Planning &amp; System Design </li><li> Building Portfolio Projects</li></ul>
+**Pronouns:** she/her 
+**Fun fact:** I love designing software workflows before writing the first line of code.
+
 
 ##  Tech Stack
 
@@ -52,7 +53,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joshikhalogic&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=A371F7"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=default&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
@@ -66,9 +67,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 ## Contribution Graph
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&bg_color=00000000&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=tokyonight&bg_color=00000000&color=a371f7&line=a371f7&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 ---
 <p align="center"><i>Building with curiosity • Learning with purpose </i></p>
