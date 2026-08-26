@@ -55,7 +55,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoshikhaLogic&hide_border=true&timezone=IST)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </p>
 
