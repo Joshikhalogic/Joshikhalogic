@@ -8,7 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast;Turning%20ideas%20into%20intelligent%20software" alt="Typing headlines" />
 </p>
 
-## About Me
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM4_ka0Bpo5RXEjdFkhZC1mfXlmK7TR2HYU4NqCnNizSQC2Lz2aHubD4&s" width="24" height="24" align="center" alt="Connect With Me Icon"> Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joshikha-dharmarpu-2a6700379/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joshikha.dharmarpu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM4_ka0Bpo5RXEjdFkhZC1mfXlmK7TR2HYU4NqCnNizSQC2Lz2aHubD4&s" width="24" height="24" align="center" alt="About Me Icon"> About me
 
 I'm a Computer Science student driven by curiosity and a passion for solving real-world problems through technology.  
 Currently, I'm focused on Full Stack Development, AI-powered applications, and strengthening my software engineering fundamentals. My long-term goal is to build secure, intelligent, and scalable software as a Security Engineer.
@@ -20,7 +27,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
  
 **Fun fact:** I love designing software workflows before writing the first line of code.
  
-##  Tech Stack
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExGLnodF_Q0Isi1Uvqb-C_BDpSXM90kaFqPxe1hdzfA&s=10" width="24" height="24" align="center" alt="Tech Stack Icon"> Tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,31 +46,23 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-##  Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joshikha-dharmarpu-2a6700379/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:joshikha.dharmarpu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvedvY20e1Gw1xQRVrqAOi3SzSZpxYCDp0WdqvK1ZcKA&s=10" width="24" height="24" align="center" alt="Git Statistics Icon"> Git statistics
 
-## GitHub Statistics
-
-<p align="left">
+<p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-<p align="right">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Joshikhalogic&theme=default&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoshikhaLogic&hide_border=true&timezone=IST)](https://git.io/streak-stats)
 
 </p>
 
----
-
-## Contribution Graph
+<!--## Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&theme=default&color=A371F7&line=A371F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Joshikhalogic&bg_color=00000000&color=a371f7&line=a371f7&point=1f2328&area=true&hide_border=true" alt="activity graph" />
+</p>-->
 ---
 <p align="center"><i>Building with curiosity • Learning with purpose </i></p>
