@@ -49,7 +49,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvedvY20e1Gw1xQRVrqAOi3SzSZpxYCDp0WdqvK1ZcKA&s=10" width="24" height="24" align="center" alt="Git Statistics Icon"> Git statistics
 
-<p align="center">
+<p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Joshikhalogic&layout=compact&theme=tokyonight&title_color=a371f7&icon_color=a371f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
