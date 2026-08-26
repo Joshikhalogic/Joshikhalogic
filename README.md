@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Joshikhalogic">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A371F7&fontSize=54&height=90&width=858&text=I'm%20Joshikha%20Dharmarpu%F0%9F%91%8B" alt="I&#39;m Joshikha Dharmarpu" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=794&text=I'm%20Joshikha%20Dharmarpu" alt="I&#39;m Joshikha Dharmarpu" />
   </a>
 </p>
 
