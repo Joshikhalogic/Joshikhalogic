@@ -16,10 +16,10 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 **I'm currently working on** <ul><li> AI-powered software projects</li><li> Final Year Project Management Platform</li><li> Building a portfolio for software engineering internships</li></ul>
 **I'm currently learning**<ul><li> Full Stack Development</li><li> Data Structures &amp; Algorithms</li><li> AI Integration &amp; APIs</li><li> Cybersecurity Fundamentals</li><li> Linux &amp; Git</li></ul> 
 **Ask me about** <ul><li> Full Stack Development</li><li> Project Planning &amp; System Design </li><li> Building Portfolio Projects</li></ul>
-**Pronouns:** she/her 
+**Pronouns:** she/her
+ 
 **Fun fact:** I love designing software workflows before writing the first line of code.
-
-
+ 
 ##  Tech Stack
 
 <p align="left">
