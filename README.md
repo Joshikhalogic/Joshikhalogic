@@ -15,7 +15,7 @@
   <a href="mailto:joshikha.dharmarpu@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROM4_ka0Bpo5RXEjdFkhZC1mfXlmK7TR2HYU4NqCnNizSQC2Lz2aHubD4&s" width="24" height="24" align="center" alt="About Me Icon"> About me
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqeOaTt7xfX4MM3m49wY6BjPt45orAKf03gdWAVCPTWQ&s=10" width="24" height="24" align="center" alt="About Me Icon"> About me
 
 I'm a Computer Science student driven by curiosity and a passion for solving real-world problems through technology.  
 Currently, I'm focused on Full Stack Development, AI-powered applications, and strengthening my software engineering fundamentals. My long-term goal is to build secure, intelligent, and scalable software as a Security Engineer.
@@ -55,7 +55,7 @@ Currently, I'm focused on Full Stack Development, AI-powered applications, and s
 
 <p align="center">
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </p>
 
